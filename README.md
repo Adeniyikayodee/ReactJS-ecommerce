@@ -3,11 +3,11 @@
 I only built this to examine my knowledge of ReactJS. Used CommerceJS API for backend. Didn't intergate payment.
 
 
-Git Clone
-npm install react-script --save
-fix your URL KEYS in .env (sample availiable in ENV.SAM)
-npm start (localhost 3000)
-npm run build
+Git Clone \\
+npm install react-script --save \\
+fix your URL KEYS in .env (sample availiable in ENV.SAM) \\
+npm start (localhost 3000) \\
+npm run build  \\
 
 
 GOODLUCK!
